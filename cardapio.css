@@ -1,0 +1,79 @@
+body{
+    background-color: #dbc27cda;
+	font-family:serif;
+	margin: 0;
+	padding: 0;
+
+}
+p {
+	font-size: 30px;
+	text-align: left;
+	color: #0e0606;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+#mistura {
+	width: 100%;
+   height: 70%;
+ 
+   
+}
+#cafecomleite {
+	width: 100%;
+   height: 70%;
+
+}
+#capuccino {
+	width: 100%;
+   height: 70%;
+}
+#chapreto {
+	width: 100%;
+   height: 70%;
+}
+
+
+
+
+h1 {
+ font-size:80px;
+ color: #0e0606;
+ text-align:center;
+}
+h2 {
+	font-size: 55px;
+	color: #2e0f0f;
+	text-align:center;
+}
+h3 {
+	font-size: 125%;
+	color: #330d0db0;
+	text-align: center;
+}
+nav li {
+	position: relative;
+    padding: 30px;
+    padding-right: 0%;
+    display: inline-block;
+	
+}
+
+nav a {
+	font-size: 35px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	text-decoration: none;
+	color: #2e0f0f;
+	text-align: center;
+}
+#rodape {
+	background-color:#675c47;
+	width: 100%;
+	color: #efe5d0;
+	text-align:center;
+	 padding:0px;
+	 margin:0px;
+	 font-size:20px;
+	
+}
