@@ -14,10 +14,10 @@ p {
 	
 }
 #mistura {
-	text-align;center;
+	text-align: center;
 	width: 70%;
-   height: 70%;
- 
+   	height: 70%;
+ 	margin: 0 auto;
    
 }
 #cafecomleite {
