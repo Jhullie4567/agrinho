@@ -15,15 +15,18 @@ h1 {
 	font-size:80px;
 	color: #0e0606;
 	text-align:center;
-   }
-   nav a:hover {
+}
+
+nav a:hover {
     color: #2e0f0f;
     text-decoration: underline;
 } 
+
 .caixa nav ul li {
 	display: inline-block;
 }
-		nav li {
+		
+nav li {
 	position: relative;
     padding: 30px;
     padding-right: 0%;
@@ -39,6 +42,7 @@ nav a {
 	color: #2e0f0f;
 	text-align: center;
 }
+
 #rodape {
 	background-color:#675c47;
 	width: 100%;
