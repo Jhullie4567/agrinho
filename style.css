@@ -44,21 +44,25 @@ p {
 	
 }
 #mistura {
+	text-align: center;
 	width: 50%;
    height: 50%;
  
    
 }
 #cafecomleite {
+	text-align: center;
 	width: 70%;
    height: 70%;
 
 }
 #capuccino {
+	text-align: center;
 	width: 70%;
    height: 70%;
 }
 #chapreto {
+	text-align: center;
 	width: 70%;
    height: 70%;
 }
