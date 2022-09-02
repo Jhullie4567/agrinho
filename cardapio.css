@@ -51,6 +51,13 @@ h3 {
 	color: #330d0db0;
 	text-align: center;
 }
+nav a:hover {
+    color: #2e0f0f;
+    text-decoration: underline;
+}
+.caixa nav ul li {
+	display: inline-block;
+}
 nav li {
 	position: relative;
     padding: 30px;
