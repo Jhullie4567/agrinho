@@ -17,17 +17,17 @@ p {
 	text-align: center;
 	width: 70%;
    	height: 70%;
- 	margin: 0 auto;
+ 	
    
 }
 #cafecomleite {
 	text-align:center;
 	width: 70%;
-   height: 70%;
+   	height: 70%;
 
 }
 #capuccino {
-	text-align:ceneter;
+	text-align:center;
 	width: 70%;
    height: 70%;
 }
@@ -45,20 +45,24 @@ h1 {
  color: #0e0606;
  text-align:center;
 }
+
 h2 {
 	font-size: 55px;
 	color: #2e0f0f;
 	text-align:center;
 }
+
 h3 {
 	font-size: 125%;
 	color: #330d0db0;
 	text-align: center;
 }
+
 nav a:hover {
     color: #2e0f0f;
     text-decoration: underline;
 }
+
 .caixa nav ul li {
 	display: inline-block;
 }
