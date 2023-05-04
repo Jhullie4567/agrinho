@@ -4,10 +4,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-#banner {
-	width: 100%;
-	
-}
 
 .caixa nav ul li {
 	display: inline-block;
@@ -43,29 +39,7 @@ p {
 	margin-right: 5%;
 	
 }
-#mistura {
-	text-align:center;
-	width: 70%;
-   height: 70%;
- 
-   
-}
-#cafecomleite {
-	text-align:center;
-	width: 70%;
-   height: 70%;
 
-}
-#capuccino {
-	text-align:center;
-	width: 70%;
-   height: 70%;
-}
-#chapreto {
-	text-align:center;
-	width: 70%;
-   height: 70%;
-}
 
 
 
